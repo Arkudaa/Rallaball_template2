@@ -1,0 +1,5 @@
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\Definitions.RollaBall.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Source\RollaBall/Collectible.h
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Inc\RollaBall\Collectible.generated.h

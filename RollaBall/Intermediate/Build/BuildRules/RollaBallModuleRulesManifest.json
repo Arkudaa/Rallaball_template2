@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Kasutaja\\Documents\\Unreal Projects\\RollaBall\\Source\\RollaBall\\RollaBall.Build.cs",
+		"C:\\Users\\Kasutaja\\Documents\\Unreal Projects\\RollaBall\\Source\\RollaBall.Target.cs",
+		"C:\\Users\\Kasutaja\\Documents\\Unreal Projects\\RollaBall\\Source\\RollaBallEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,3 @@
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\Definitions.RollaBall.h
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Source\RollaBall\Collectible.h
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Inc\RollaBall\Collectible.generated.h

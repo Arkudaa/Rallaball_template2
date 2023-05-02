@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-RollaBall.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\RollaBallEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\BasePlayer.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\RollaBall.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\RollaBallGameModeBase.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\BasePlayer.gen.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\RollaBall.init.gen.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\RollaBallGameModeBase.gen.cpp.obj"
+"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\Default.rc2.res"
+/OUT:"C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall.lib"

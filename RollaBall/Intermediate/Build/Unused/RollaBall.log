@@ -1,0 +1,10 @@
+﻿  Building RollaBallEditor...
+  Using Visual Studio 2019 14.29.30146 toolchain (C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 3 actions with 12 processes...
+    [1/3] UE4Editor-RollaBall-0012.lib
+       Creating library C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0012.lib and object C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0012.exp
+    [2/3] UE4Editor-RollaBall-0012.dll
+       Creating library C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0012.suppressed.lib and object C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Intermediate\Build\Win64\UE4Editor\Development\RollaBall\UE4Editor-RollaBall-0012.suppressed.exp
+Collectible.gen.cpp.obj : error LNK2019: unresolved external symbol "public: void __cdecl ACollectible::OnOverlap(class AActor *,class AActor *)" (?OnOverlap@ACollectible@@QEAAXPEAVAActor@@0@Z) referenced in function "public: static void __cdecl ACollectible::execOnOverlap(class UObject *,struct FFrame &,void * const)" (?execOnOverlap@ACollectible@@SAXPEAVUObject@@AEAUFFrame@@QEAX@Z)
+C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\Binaries\Win64\UE4Editor-RollaBall-0012.dll : fatal error LNK1120: 1 unresolved externals
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.MakeFile.Targets(45,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\Build.bat" RollaBallEditor Win64 Development -Project="C:\Users\Kasutaja\Documents\Unreal Projects\RollaBall\RollaBall.uproject" -WaitMutex -FromMsBuild" exited with code 6.
